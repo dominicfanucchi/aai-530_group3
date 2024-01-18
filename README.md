@@ -1,4 +1,4 @@
-# Group 2 Final Project
+# Group 3 Final Project
 This project is a part of the AAI-530 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 **-- Project Status: Active**
