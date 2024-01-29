@@ -12,7 +12,7 @@ This project is a part of the AAI-530 course in the Applied Artificial Intellige
 To use this project, first clone the repo on your device using the command below:
 ```
 git init
-git clone https://github.com/dominicfanucchi/aai-501_group2.git
+git clone https://github.com/dominicfanucchi/aai-501_group3.git
 ```
 
 ## Project Objective
