@@ -5,8 +5,8 @@ This project is a part of the AAI-530 course in the Applied Artificial Intellige
 
 - ### Partner(s)/Contributor(s)
    * Dominic Fanucchi
-   * 
-   * 
+   * Daniel Grant
+   * Isaack Karanja
 
 ## Installation
 To use this project, first clone the repo on your device using the command below:
@@ -37,16 +37,16 @@ These algorithms and networks were implemented through Python and Jupyter Notebo
    * Sklearn
 
 ## Models
-
+LSTM, GRU, CNN, and Linear Regression.
 
 ## Results
 
 
 ## References
-
+Open Data Aarhus. (2014). CityPulse Smart City Datasets—Datasets. http://iot.ee.surrey.ac.uk:8080/datasets.html#traffic
 
 ## Acknowledgments
-We would like to express our sincere gratitude to Professor _________________ who taught the AAI-530-01 Course, and _________________ for putting together this dataset. 
+We would like to express our sincere gratitude to Professor Anna Marbut who taught the AAI-530-01 Course, and Open Data Aarhus for putting together this dataset. 
 
 
 ## License
