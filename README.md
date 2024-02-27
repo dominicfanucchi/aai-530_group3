@@ -9,8 +9,8 @@ This project is a part of the AAI-530 course in the Applied Artificial Intellige
    * Isaack Karanja
 
 # Notebook viewing order for simplicity:
-1. LSTM_Vehicle_Count_Prediction
-2. SPEED-VEHICLE-PREDICTION-LSTM-CNN-TEAM3
+1. LSTM_Vehicle_Count_Prediction (Pre Feature Eng. Deep Learning)
+2. SPEED-VEHICLE-PREDICTION-LSTM-CNN-TEAM3 (EDA and Post Feature Eng. Deep Learning)
 3. Linear_Regression_AvgSpeed_Prediction
 
 ## Installation
