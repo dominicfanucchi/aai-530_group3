@@ -21,13 +21,10 @@ git clone https://github.com/dominicfanucchi/aai-501_group3.git
 ```
 
 ## Project Objective
-
+Our objective is to outline an IoT system to allow you to analyze and predict traffic patterns for better time management, travel plans, and safety.
 
 ## About the Dataset
-
-
-## Approach
-
+This dataset was comprised of data collected between 2014 Feb - June. There were 490 files from sensor pairs placed all over Denmark. We renamed the sensors to junctions.
 
 These algorithms and networks were implemented through Python and Jupyter Notebooks. 
 
@@ -45,14 +42,13 @@ These algorithms and networks were implemented through Python and Jupyter Notebo
 LSTM, GRU, CNN, and Linear Regression.
 
 ## Results
-
+Our models showed a decent ability to forecast future traffic congestion levels and speeds. However, there is still room for improvement in terms of model accuracy and performance.
 
 ## References
 Open Data Aarhus. (2014). CityPulse Smart City Datasets—Datasets. http://iot.ee.surrey.ac.uk:8080/datasets.html#traffic
 
 ## Acknowledgments
 We would like to express our sincere gratitude to Professor Anna Marbut who taught the AAI-530-01 Course, and Open Data Aarhus for putting together this dataset. 
-
 
 ## License
 This dataset is licensed under a []() - see the [Creative Commons](https://creativecommons.org/publicdomain/) website for details.
