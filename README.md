@@ -8,6 +8,11 @@ This project is a part of the AAI-530 course in the Applied Artificial Intellige
    * Daniel Grant
    * Isaack Karanja
 
+# Notebook viewing order for simplicity:
+1. LSTM_Vehicle_Count_Prediction
+2. SPEED-VEHICLE-PREDICTION-LSTM-CNN-TEAM3
+3. Linear_Regression_AvgSpeed_Prediction
+
 ## Installation
 To use this project, first clone the repo on your device using the command below:
 ```
